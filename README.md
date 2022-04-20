@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🎥 "Guest Appearances":
+
+- [Microfrontends - Devs in the Shed](https://youtu.be/iBSmR0sOrgg?t=1708)
+- [Common AWS Cost Mistakes - Don't break the bank | The Keys to AWS Optimization | S3 E5](https://youtu.be/5oxm-O9NIwg?t=1395)
+
 <!--
 **antmdvs/antmdvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
